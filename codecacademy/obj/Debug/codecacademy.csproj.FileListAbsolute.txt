@@ -1,0 +1,5 @@
+c:\users\busrabasaran\documents\visual studio 2013\Projects\codecacademy\codecacademy\bin\codecacademy.dll.config
+c:\users\busrabasaran\documents\visual studio 2013\Projects\codecacademy\codecacademy\bin\codecacademy.dll
+c:\users\busrabasaran\documents\visual studio 2013\Projects\codecacademy\codecacademy\bin\codecacademy.pdb
+c:\users\busrabasaran\documents\visual studio 2013\Projects\codecacademy\codecacademy\obj\Debug\codecacademy.dll
+c:\users\busrabasaran\documents\visual studio 2013\Projects\codecacademy\codecacademy\obj\Debug\codecacademy.pdb
